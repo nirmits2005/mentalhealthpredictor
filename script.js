@@ -6,7 +6,7 @@
 (() => {
   'use strict';
 
-  const API_URL = 'https://mentalhealthpredictor-1-abbz.onrender.com';
+  const API_URL = 'https://mentalhealthpredictor-2uxq.onrender.com';
 
   /* ---------------------------------------------------------
      Country list (top countries the model groups explicitly,
