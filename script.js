@@ -6,7 +6,7 @@
 (() => {
   'use strict';
 
-  const API_URL = 'http://127.0.0.1:8000/predict';
+  const API_URL = 'https://mentalhealthpredictor-1-abbz.onrender.com';
 
   /* ---------------------------------------------------------
      Country list (top countries the model groups explicitly,
